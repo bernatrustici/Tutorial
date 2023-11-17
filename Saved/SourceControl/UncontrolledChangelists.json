@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/BPW_interact.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/Door.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/Y0/GMP5ZETW1I7LVSPWSBG3XV.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/Widget/hud.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/Door/Door.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/Door/BPW_interact.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/BP/Door/BPW_interact.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/BP/Door/Door.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/BP/Life/Add.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/BP/Life/Loss.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/6A/WU8TG5V6H4HY4M2DSNN9PX.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/BP/Coins/Coin.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/NP/1Z8URRZ74NCEIWYLCZ0B2Y.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/X2/V7DTIKDFVRHOR1VEIVXYL4.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/07/YDVJGF31QSLI4NJEG58Q3N.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/LU/Q3UQVBJ1Z4NHCKM8Z5B2WQ.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/LO/OE07KBSOOIPPVRGLC1BWHY.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/DX/45MHAPWMAXGHO27FL9LIUW.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/BP/Coin/Coin.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/UI/BALX59QHPX8XGF51YMXV7M.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/64/YQ637KHLYZRF35SBDLQ3LV.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/BO/14KMXAHLE0NP4PF7CXYSBI.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/XU/EJW3QMGM0R37QIECWR3KNX.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/NewBlueprint.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MZ/8KV5IF3DX6UK4I59UH6GPO.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/deton/Documents/Unreal Projects/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/H8/72VFRU8KR1F6VEXYZV7LSK.uasset"
+			]
+		}
+	]
+}
